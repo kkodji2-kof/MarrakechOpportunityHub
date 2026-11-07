@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.streamlit/secrets.toml
+# données personnelles de suivi : ne pas publier
+stages_marrakech/data/tracking/
+stages_marrakech/data/clean/
+stages_marrakech/data/reports/
+.env
+*.db
+__pycache__/
+.venv/
+*.pyc

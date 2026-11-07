@@ -1,0 +1,21 @@
+{
+  "nom": "KODJI Koffi",
+  "titre": "IA & Data Analyst",
+  "ville": "Marrakech, Maroc",
+  "email": "kkodji2@gmail.com",
+  "telephone": "+212632818518",
+  "linkedin": "",
+  "github": "",
+  "bio": "MarrakechOpportunityHub (nom de code : tracker_marrakech) est une solution intelligente conçue pour centraliser, nettoyeCr et analyser les offres d'emploi, de stages et les entreprises en Data analyste, IA  dans la région de Marrakech-Safi.",
+  "competences": [
+    "Python",
+    "Pandas",
+    "Scikit-Learn",
+    "Streamlit",
+    "PostgreSQL",
+    "Groq API",
+    "ETL Pipelines",
+    "Git & GitHub"
+  ],
+  "photo": "photo.jpg"
+}
