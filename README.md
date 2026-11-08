@@ -2,7 +2,7 @@
 
 Plateforme interactive de collecte, d'analyse et de suivi des opportunités de stage et d'emploi à Marrakech.
 
-##  Démo en ligne
+##  application en ligne
 Retrouvez l'application déployée sur Streamlit Cloud :  
 👉 [marrakechopportunity.streamlit.app](https://marrakechopportunity.streamlit.app)
 
